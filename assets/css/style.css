@@ -1,0 +1,33 @@
+body{
+	padding-top:8%;
+	padding-left:5%;
+	padding-right:5%;
+}
+
+.navbar{
+	padding-left:5%;
+	padding-right:8%;
+	background-color: silver;
+}
+
+
+.form-horizontal{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+input, label{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.jumbotron{
+	margin-top: 5%;
+}	
+
+a {
+	text-decoration: underline;
+}
+.red{
+	color: red;
+}
